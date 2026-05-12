@@ -1,5 +1,3 @@
-# Quantum-Learning-
-Learning archive for quantum computing and quantum machine learning: study notes, certifications, projects, and hackathon experiences.
 # ⚛️ quantum-learning
 
 > A living portfolio of my quantum computing journey — courses, certificates, hackathons, and projects.
