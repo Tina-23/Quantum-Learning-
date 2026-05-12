@@ -78,13 +78,4 @@ quantum-learning/
 
 ---
 
-## Roadmap
-
-- [ ] Complete QCourse 581-1 and add final project
-- [ ] Add detailed notes for each QEC and QKD module
-- [ ] Document hackathon approaches and learnings
-- [ ] Add a summary blog post or `REFLECTIONS.md`
-
----
-
 *Updated continuously as I learn.*
