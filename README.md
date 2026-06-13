@@ -67,7 +67,7 @@ The goal is to maintain a transparent, growing record of my quantum education �
 
 | Programme | Status | Topics |
 |-----------|--------|--------|
-| **WISER** |  🔜 Upcoming| Quantum computing, research exposure, community and mentorship |
+| **WISER** |  🔄 In progress | Quantum computing, research exposure, community and mentorship |
 
 ---
 
