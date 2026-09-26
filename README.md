@@ -57,7 +57,7 @@ The goal is to maintain a transparent, growing record of my quantum education �
 
 | Programme | Status | Topics |
 |-----------|--------|--------|
-| **Introduction to Quantum Information Science & Engineering** |  🔜 Upcoming | Quantum information theory, quantum engineering fundamentals, co-design principles |
+| **Introduction to Quantum Information Science & Engineering** |  ✅ Completed  | Quantum information theory, quantum engineering fundamentals, co-design principles |
 
 *Offered jointly by the Virginia Tech Center for Quantum Information Science & Engineering and the Co-design Center for Quantum Advantage (C2QA).*
 
@@ -67,7 +67,7 @@ The goal is to maintain a transparent, growing record of my quantum education �
 
 | Programme | Status | Topics |
 |-----------|--------|--------|
-| **WISER** |  🔄 In progress | Quantum computing, research exposure, community and mentorship |
+| **WISER** |  ✅ Completed  | Quantum computing, research exposure, community and mentorship |
 
 ---
 
@@ -75,7 +75,7 @@ The goal is to maintain a transparent, growing record of my quantum education �
 
 | Programme | Status | Topics |
 |-----------|--------|--------|
-| **Qiskit Global Summer School 2025** | 🔜 Upcoming | Quantum computing with Qiskit, quantum algorithms, hardware, real device programming |
+| **Qiskit Global Summer School 2026** | ✅ Completed  | Quantum computing with Qiskit, quantum algorithms, hardware, real device programming |
 
 *Hosted by IBM Quantum. Hands-on summer school covering quantum computing theory and practice entirely within the Qiskit ecosystem, culminating in programming real quantum hardware.*
 
@@ -85,7 +85,7 @@ The goal is to maintain a transparent, growing record of my quantum education �
 
 | Programme | Status | Topics |
 |-----------|--------|--------|
-| **QDW Cortisium** | 🔜 Upcoming | Quantum deep dives, community-driven learning, advanced quantum topics |
+| **QDW Cortisium** | ✅ Completed  | Quantum deep dives, community-driven learning, advanced quantum topics |
 
 ---
 
